@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708118bb-3179-4ff0-b28a-991d69b008a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\description.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\Animals.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Behaviours\AxeBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Behaviours\BowAndArrowBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Behaviours\KnifeBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Behaviours\SwordBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Behaviours\WeaponBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Characters\Character.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Characters\King.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Characters\Knight.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Characters\Queen.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\Characters\Troll.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\MiniGame\MiniGame.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\FlyBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\FlyNoWay.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\FlyRocketPowered.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\FlyWithWings.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\MuteQuack.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\Quack.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\QuackBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Behaviours\Squeak.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Duck\Duck.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Duck\MallardDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Duck\ModelDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\Duck\RubberDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\Animals\uv\alez\SimUDick\MiniDuckSimulator.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\out\production\untitled104\uv\alez\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Behaviours\AxeBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Behaviours\BowAndArrowBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Behaviours\KnifeBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Behaviours\SwordBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Behaviours\WeaponBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Characters\Character.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Characters\King.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Characters\Knight.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Characters\Queen.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\Characters\Troll.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\MiniGame\MiniGame.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\FlyBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\FlyNoWay.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\FlyRocketPowered.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\FlyWithWings.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\MuteQuack.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\Quack.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\QuackBehaviour.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Behaviours\Squeak.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Duck\Duck.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Duck\MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Duck\ModelDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\Duck\RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\ch1\Strategy\src\uv\alez\SimUDick\MiniDuckSimulator.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Patterns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +25,28 @@
     <favorites_list name="Patterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.114285715">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -120,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/MallardDuck.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/Duck.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/ModelDuck.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/Main.java" />
       </list>
     </option>
   </component>
@@ -201,6 +165,42 @@
               <option name="myItemId" value="alez" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch2Observer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -217,7 +217,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.MiniDuckSimulator">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="MiniGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -246,6 +246,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="uv.alez.ch1Strategy.SimUDick.MiniDuckSimulator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="uv.alez.ch2Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="uv.alez.ch2Observer.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -552,14 +572,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.MiniGame" />
       <item index="1" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MiniGame" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MiniGame" />
       </list>
     </recent_temporary>
   </component>
@@ -578,12 +600,12 @@
       <created>1432011144746</created>
       <option name="number" value="Default" />
       <updated>1432011144746</updated>
-      <workItem from="1432011148736" duration="751000" />
+      <workItem from="1432011148736" duration="1009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="751000" />
+    <option name="totallyTimeSpent" value="1009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="336" y="11" width="1059" height="1060" extended-state="0" />
@@ -838,6 +860,17 @@
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114285715">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
