@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="708118bb-3179-4ff0-b28a-991d69b008a3" name="Default" comment="4">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java" />
-      <change type="DELETED" beforePath="E:\Java\patterns_first\Patterns\src\uv\alez\ch2Observer\Main.java" afterPath="" />
+    <list default="true" id="708118bb-3179-4ff0-b28a-991d69b008a3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java" />
+      <change type="DELETED" beforePath="E:\Java\patterns_first\Patterns\src\uv\alez\ch2Observer\WheatherStation\Display\CurrentConditionsDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\patterns_first\Patterns\src\uv\alez\ch2Observer\WheatherStation\Display\DisplayElement.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Patterns.iws" />
@@ -31,17 +34,37 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="ForecastDisplay.java" pinned="false" current-in-tab="true">
+              <entry file="file://$USER_HOME$/Downloads/HeadFirstDesignPatterns_code102507/HF_DP/src/headfirst/observer/weather/ForecastDisplay.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.49326426">
+                    <caret line="28" column="70" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="70" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Patterns" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.38699186">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,12 +72,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java">
+      <file leaf-file-name="Forecast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13980263">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Statistic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="113" selection-start-line="35" selection-start-column="113" selection-end-line="35" selection-end-column="113" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,12 +98,15 @@
         <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,27 +116,27 @@
         <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisplayElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/DisplayElement.java">
+      <file leaf-file-name="Widget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentConditionsDisplay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionsDisplay.java">
+      <file leaf-file-name="CurrentCondition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,9 +196,16 @@
         <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/DisplayElement.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WheatherData.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java" />
         <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java" />
       </list>
     </option>
   </component>
@@ -269,7 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Observer" />
+              <option name="myItemId" value="Widget" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,7 +340,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Display" />
+              <option name="myItemId" value="Subject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WheatherStation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Observer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,6 +418,11 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uv.alez.ch2Observer.WheatherStation.Widget" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.WeatherStation">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -731,7 +807,7 @@
       <option name="number" value="Default" />
       <updated>1432011144746</updated>
       <workItem from="1432011148736" duration="1513000" />
-      <workItem from="1432012691560" duration="1865000" />
+      <workItem from="1432012691560" duration="5378000" />
     </task>
     <task id="LOCAL-00001" summary="4">
       <created>1432012179757</created>
@@ -739,11 +815,17 @@
       <option name="project" value="LOCAL" />
       <updated>1432012179757</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4">
+      <created>1432014567081</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432014567081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3378000" />
+    <option name="totallyTimeSpent" value="6891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="0" />
@@ -751,23 +833,23 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32244468" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32244468" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27444443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -792,7 +874,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -806,43 +890,6 @@
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1025,35 +1072,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionsDisplay.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16612378">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1061,24 +1107,70 @@
     <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/DisplayElement.java">
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java">
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13980263">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="113" selection-start-line="35" selection-start-column="113" selection-end-line="35" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/HeadFirstDesignPatterns_code102507/HF_DP/src/headfirst/observer/weather/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/HeadFirstDesignPatterns_code102507/HF_DP/src/headfirst/observer/weather/ForecastDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49326426">
+          <caret line="28" column="70" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38699186">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

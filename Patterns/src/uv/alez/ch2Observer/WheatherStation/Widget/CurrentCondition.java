@@ -1,14 +1,15 @@
-package uv.alez.ch2Observer.WheatherStation.Display;
+package uv.alez.ch2Observer.WheatherStation.Widget;
 
 import uv.alez.ch2Observer.WheatherStation.Observer.Observer;
 import uv.alez.ch2Observer.WheatherStation.Subject.Subject;
+import uv.alez.ch2Observer.WheatherStation.Subject.WeatherData;
 
-public class CurrentConditionsDisplay implements Observer, DisplayElement {
+public class CurrentCondition implements Widget, Observer {
     private float temperature;
     private float humidity;
     private Subject weatherData;
 
-    public CurrentConditionsDisplay(Subject weatherData) {
+    public CurrentCondition(WeatherData weatherData) {
         this.weatherData = weatherData;
         weatherData.registerObserver(this);
     }
@@ -22,6 +23,6 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        System.out.println("Current conditions: " + temperature + "F degrees and " + humidity + "% humidity");
+        System.out.println("Current conditions: " + temperature + " C degrees and " + humidity + "% humidity");
     }
 }
