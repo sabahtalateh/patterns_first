@@ -8,7 +8,7 @@ public class IODecorator {
         try {
             InputStream in = new LowerCaseInputStream(new BufferedInputStream(new FileInputStream("C:/HaxLogs.txt")));
 
-            while ((c = in.read()) >= 0){
+            while ((c = in.read()) >= 0) {
                 System.out.print((char) c);
             }
         } catch (IOException e) {
