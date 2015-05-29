@@ -2,18 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708118bb-3179-4ff0-b28a-991d69b008a3" name="Default" comment="4">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Beverage.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Beverage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/CondimentDecorator.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/CondimentDecorator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/DarkRoast.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/DarkRoast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Decaf.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Decaf.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Espresso.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/Espresso.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/HouseBlend.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/HouseBlend.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/IODecorator.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/IODecorator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/LowerCaseInputStream.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/LowerCaseInputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Mocha.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Mocha.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Soy.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Soy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Observer/Observer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Subject/Subject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/WeatherStation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Patterns/uv/alez/ch2Observer/WheatherStation/Widget/Widget.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/BlackOlives.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Cheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/CheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/ChicagoPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/ChicagoPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/ClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Clams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Beverage/DarkRoast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Dough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/EggPlant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FreshClam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FrozenClam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Grablic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/MarinaraSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Milk.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mozarella.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mushroom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/NYPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/NYPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Onion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Peperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/PizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/PizzaTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/PlumTomato.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/RedPepper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ReggianoCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Sauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/SlicedPeperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Soy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Spinach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThickCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThinCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Veggies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/alez.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Starbuzz.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Starbuzz.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Whip.java" afterPath="$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Condiment/Whip.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Patterns.iws" />
@@ -42,85 +75,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
+      <file leaf-file-name="NYPizzaIngredientFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/NYPizzaIngredientFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowerCaseInputStream.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/LowerCaseInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3762268">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Forecast.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Statistic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="113" selection-start-line="35" selection-start-column="113" selection-end-line="35" selection-end-column="113" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Widget.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CurrentCondition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.5472637">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -147,48 +106,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/AxeBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/WeaponBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/BowAndArrowBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/SwordBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/KnifeBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Troll.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Character.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/King.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Knight.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Queen.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/MiniGame.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyRocketPowered.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyWithWings.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/MuteQuack.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/Quack.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/QuackBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/Squeak.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/MiniDuckSimulator.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/Duck.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/ModelDuck.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/Main.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/Subject.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WheatherData.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Display/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java" />
-        <option value="$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/LowerCaseInputStream.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/PizzaShop.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Main.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Pizza/Regional/NYStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Pizza/Regional/NYStylePeperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Pizza/Regional/ChicagoStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Pizza/Regional/ChicagoStylePeperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Store/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Store/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/Store/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/SimplePizzaFactory/PizzaTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/ingridient/PizzaIngridientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/ingridient/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/BlackOlives.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Veggies.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Dough.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThinCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/MarinaraSauce.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Peperoni.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Clams.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThickCrustDough.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/PlumTomato.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mozarella.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Spinach.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/EggPlant.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/SlicedPeperoni.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FrozenClam.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ReggianoCheese.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Grablic.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Onion.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mushroom.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/RedPepper.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/RedPepper.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FreshClam.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/ClamPizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/regional/ChicagoStylePeperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/ChicagoPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/PizzaTestDrive.java" />
       </list>
     </option>
   </component>
@@ -207,10 +175,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="914" />
-    <option name="y" value="26" />
-    <option name="width" value="1006" />
-    <option name="height" value="1037" />
+    <option name="x" value="909" />
+    <option name="y" value="39" />
+    <option name="width" value="968" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -223,7 +191,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -235,7 +203,140 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3Fabric.simplePizzaFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3Fabric.simplePizzaFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3Fabric.simplePizzaFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ingridient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3Fabric.simplePizzaFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ingridient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch3Decorator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uv.alez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -301,58 +402,6 @@
               <option name="myItemId" value="ch3Decorator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iodecorator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheatherStation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alez" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WheatherStation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Observer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -388,14 +437,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
@@ -405,11 +454,62 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uv.alez.ch3Fabric.simplePizzaFactory.ingridient" />
+      <recent name="uv.alez.ch3Fabric.simplePizzaFactory.ingridient.factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="uv.alez.ch2Observer.WheatherStation.Widget" />
+      <recent name="uv.alez.ch3Fabric.simplePizzaFactory.pizza" />
+      <recent name="uv.alez.ch3Fabric.simplePizzaFactory.ingridient" />
+      <recent name="uv.alez.ch3Fabric.SimplePizzaFactory.Pizza.Regional" />
+      <recent name="uv.alez.ch3Fabric.SimplePizzaFactory.Store" />
+      <recent name="uv.alez.ch3Fabric.SimplePizzaFactory.Pizza" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation">
+  <component name="RunManager" selected="Application.PizzaTestDrive">
+    <configuration default="false" name="Starbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="uv.alez.ch3Decorator.starbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="uv.alez.ch3Decorator.starbuzz.Starbuzz" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="uv.alez.ch3Fabric.simplePizzaFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="uv.alez.ch3Fabric.simplePizzaFactory.PizzaTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Patterns" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -613,6 +713,38 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -660,6 +792,22 @@
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="WeatherStation" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -722,11 +870,19 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.WeatherStation" />
       <item index="1" class="java.lang.String" itemvalue="Application.MiniGame" />
       <item index="2" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Starbuzz" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.PizzaTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Starbuzz" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -745,7 +901,14 @@
       <updated>1432011144746</updated>
       <workItem from="1432011148736" duration="1513000" />
       <workItem from="1432012691560" duration="5378000" />
-      <workItem from="1432617997254" duration="604000" />
+      <workItem from="1432617997254" duration="821000" />
+      <workItem from="1432618932140" duration="175000" />
+      <workItem from="1432620101660" duration="4000" />
+      <workItem from="1432701937701" duration="3953000" />
+      <workItem from="1432789022056" duration="2971000" />
+      <workItem from="1432879115564" duration="129000" />
+      <workItem from="1432879264913" duration="6373000" />
+      <workItem from="1432888518741" duration="8677000" />
     </task>
     <task id="LOCAL-00001" summary="4">
       <created>1432012179757</created>
@@ -765,41 +928,59 @@
       <option name="project" value="LOCAL" />
       <updated>1432618466053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4">
+      <created>1432618611265</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1432618611265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4">
+      <created>1432618654832</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1432618654832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5">
+      <created>1432706305478</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1432706305478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7495000" />
+    <option name="totallyTimeSpent" value="29994000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="914" y="26" width="1006" height="1037" extended-state="0" />
+    <frame x="909" y="39" width="968" height="1027" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3220339" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3254818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33964142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35300207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3975026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24948241" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -815,11 +996,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -828,315 +1010,419 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/IODecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="113" selection-start-line="35" selection-start-column="113" selection-end-line="35" selection-end-column="113" />
+        <state vertical-scroll-proportion="0.25695932">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/KnifeBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/BowAndArrowBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/WeaponBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/SwordBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Behaviours/AxeBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03773585">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0754717">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Troll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056603774">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/Characters/King.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/MiniGame/MiniGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyRocketPowered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20754717">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/QuackBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16981132">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16981132">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Duck/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16981132">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/Behaviours/FlyBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03773585">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch1Strategy/SimUDick/MiniDuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4857143">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16612378">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Subject/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/CurrentCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Widget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Statistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="113" selection-start-line="35" selection-start-column="113" selection-end-line="35" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/Widget/Forecast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch2Observer/WheatherStation/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Decorator/iodecorator/LowerCaseInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3762268">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.14453961">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Decorator/starbuzz/Starbuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32119915">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="30.646767">
+          <caret line="1285" column="6" selection-start-line="1285" selection-start-column="6" selection-end-line="1285" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/HttpConnectSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/net/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71144277">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/math/BitSieve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1791046">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/math/SignedMutableBigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/BlackOlives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/BlackOlives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/Mushroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/Eggplant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/Dough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09950249">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/ThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/HF_DP/src/headfirst/factory/pizzaaf/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/MarinaraSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Veggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07462686">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Peperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07462686">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Clams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThinCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Dough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ThickCrustDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09950249">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/PlumTomato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mozarella.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Spinach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/EggPlant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049751244">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/SlicedPeperoni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FrozenClam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/ChicagoPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7711443">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/ReggianoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Grablic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Onion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Mushroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/RedPepper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/FreshClam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42288557">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/ChicagoPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/ClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/PizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12437811">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29850745">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3233831">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/store/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19900498">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/PizzaTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52238804">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07462686">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uv/alez/ch3Fabric/simplePizzaFactory/ingridient/factory/NYPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5472637">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding />
         </state>
       </provider>
